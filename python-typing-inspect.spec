@@ -1,6 +1,6 @@
 Name:		python-typing-inspect
 Version:	0.9.0
-Release:	1
+Release:	2
 Summary:	Runtime inspection utilities for typing module
 License:	MIT
 Group:		Development/Python
